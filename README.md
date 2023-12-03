@@ -50,39 +50,39 @@
 ## 🗂️ 진행 계획
 <table>
  <tr>
-    <td align="center">No.1</a></td>
+    <td align="center">No.01</a></td>
     <td align="center">정렬</td> 
   </tr>
    <tr>
-    <td align="center">No.2</a></td>
+    <td align="center">No.02</a></td>
     <td align="center">맵, 셋</td>
   </tr>
    <tr>
-    <td align="center">No.3</a></td>
+    <td align="center">No.03</a></td>
     <td align="center">스택, 큐, 덱</td> 
   </tr>
    <tr>
-    <td align="center">No.4</a></td>
+    <td align="center">No.04</a></td>
     <td align="center">우선순위 큐</td> 
   </tr>
    <tr>
-    <td align="center">No.5</a></td>
+    <td align="center">No.05</a></td>
     <td align="center">정수론 및 조합론</td> 
   </tr>
    <tr>
-    <td align="center">No.6</a></td>
+    <td align="center">No.06</a></td>
     <td align="center">브루트 포스</td> 
   </tr>
    <tr>
-    <td align="center">No.7</a></td>
+    <td align="center">No.07</a></td>
     <td align="center">백 트래킹</td> 
   </tr>
    <tr>
-    <td align="center">No.8</a></td>
+    <td align="center">No.08</a></td>
     <td align="center">동적 계획법</td> 
   </tr>
      <tr>
-    <td align="center">No.9</a></td>
+    <td align="center">No.09</a></td>
     <td align="center">그리디 알고리즘</td> 
   </tr>
      <tr>
