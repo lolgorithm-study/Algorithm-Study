@@ -67,10 +67,10 @@
 
 ## 📁 Repository 폴더 구조
 ```
-{Name}/{날짜}/{코드.Swift}
+{Github ID}/{날짜}/{코드.Swift}
 ```
 
-- 💡 예시: `YoungJoo-Kwon/_0000/A+B_합.swift`
+- 💡 예시: `youngjoo00/_0000/A+B_합.swift`
 
 <br/>
 
