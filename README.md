@@ -49,73 +49,96 @@
 
 ## 🗂️ 진행 계획
 <table>
+   <tr>
+    <td align="center">Number</a></td>
+    <td align="center">Part</td>
+    <td align="center">문제 URL</td>
+  </tr>
  <tr>
     <td align="center">No.01</a></td>
-    <td align="center">정렬</td> 
+    <td align="center">정렬</td>
+    <td align="center">https://www.acmicpc.net/group/workbook/view/19349/64250</td>
   </tr>
    <tr>
     <td align="center">No.02</a></td>
     <td align="center">맵, 셋</td>
+    <td align="center">-</td>
   </tr>
    <tr>
     <td align="center">No.03</a></td>
     <td align="center">스택, 큐, 덱</td> 
+    <td align="center">-</td>
+
   </tr>
    <tr>
     <td align="center">No.04</a></td>
-    <td align="center">우선순위 큐</td> 
+    <td align="center">우선순위 큐</td>
+    <td align="center">-</td>
   </tr>
    <tr>
     <td align="center">No.05</a></td>
-    <td align="center">정수론 및 조합론</td> 
+    <td align="center">정수론 및 조합론</td>
+    <td align="center">-</td>
   </tr>
    <tr>
     <td align="center">No.06</a></td>
-    <td align="center">브루트 포스</td> 
+    <td align="center">브루트 포스</td>
+    <td align="center">-</td>
   </tr>
    <tr>
     <td align="center">No.07</a></td>
-    <td align="center">백 트래킹</td> 
+    <td align="center">백 트래킹</td>
+    <td align="center">-</td>
   </tr>
    <tr>
     <td align="center">No.08</a></td>
-    <td align="center">동적 계획법</td> 
+    <td align="center">동적 계획법</td>
+    <td align="center">-</td>
   </tr>
      <tr>
     <td align="center">No.09</a></td>
-    <td align="center">그리디 알고리즘</td> 
+    <td align="center">그리디 알고리즘</td>
+    <td align="center">-</td>
   </tr>
      <tr>
     <td align="center">No.10</a></td>
-    <td align="center">분할 정복</td> 
+    <td align="center">분할 정복</td>
+    <td align="center">-</td>
   </tr>
      <tr>
     <td align="center">No.11</a></td>
-    <td align="center">이분 탐색</td> 
+    <td align="center">이분 탐색</td>
+    <td align="center">-</td>
   </tr>
      <tr>
     <td align="center">No.12</a></td>
-    <td align="center">투 포인터</td> 
+    <td align="center">투 포인터</td>
+    <td align="center">-</td>
   </tr>
      <tr>
     <td align="center">No.13</a></td>
-    <td align="center">DFS & BFS</td> 
+    <td align="center">DFS & BFS</td>
+    <td align="center">-</td>
   </tr>
      <tr>
     <td align="center">No.14</a></td>
-    <td align="center">최단 경로</td> 
+    <td align="center">최단 경로</td>
+    <td align="center">-</td>
   </tr>
      <tr>
     <td align="center">No.15</a></td>
-    <td align="center">동적 계획법과 최단 거리 역추적</td> 
+    <td align="center">동적 계획법과 최단 거리 역추적</td>
+    <td align="center">-</td>
   </tr>
      <tr>
     <td align="center">No.16</a></td>
-    <td align="center">트리</td> 
+    <td align="center">트리</td>
+    <td align="center">-</td>
   </tr>
      <tr>
     <td align="center">No.17</a></td>
-    <td align="center">유니콘 파인드</td> 
+    <td align="center">유니콘 파인드</td>
+    <td align="center">-</td>
   </tr>
 
   
