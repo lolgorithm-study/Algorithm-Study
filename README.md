@@ -40,7 +40,7 @@
   <tr>
     <td align="center"><a href="https://github.com/youngjoo00"><b>youngjoo00</b></a></td>
     <td align="center"><a href="https://github.com/larcenous"><b>larcenous</b></a></td>
-    <td align="center"><a href="https://github.com/Slavicmeme"><b>larcenous</b></a></td>
+    <td align="center"><a href="https://github.com/Slavicmeme"><b>Slavicmeme</b></a></td>
   </tr>
   <tr> 
     <td align="center"><img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"></td>
