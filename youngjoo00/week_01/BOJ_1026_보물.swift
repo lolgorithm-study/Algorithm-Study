@@ -4,15 +4,13 @@
 
 let N = Int(readLine()!)!
 var A : [Int] = readLine()!.split(separator: " ").map { Int($0)! }.sorted()
-var B : [Int] = readLine()!.split(separator: " ").map { Int($0)! }
+var B : [Int] = readLine()!.split(separator: " ").map { Int($0)! }.sorted(by: >)
 
 var result = 0
 
-// 오름차순으로 정렬된 A 배열의 i * B의 max값 을 result에 더하면 끝
-// B의 max 값은 반복횟수마다 remove 로 배열에서 값을 날려버림
-for i in A {
-    result += i * B.max()!
-    B.remove(at: B.firstIndex(of: B.max()!)!)
+// 오름차순으로 정렬된 A[i] * 내림차순으로 정렬된 B[i] 를 result에 더하면 끝
+for i in 0..<N {
+    result += A[i] * B[i]
 }
 
 print(result)
