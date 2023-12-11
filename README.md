@@ -42,6 +42,11 @@
     <td align="center"><a href="https://github.com/larcenous"><b>larcenous</b></a></td>
     <td align="center"><a href="https://github.com/Slavicmeme"><b>Slavicmeme</b></a></td>
   </tr>
+    <tr>
+    <td align="center">2023/12/04 ~ </a></td>
+    <td align="center">2023/12/04 ~ </a></td>
+    <td align="center">-</a></td>
+  </tr>
   <tr> 
     <td align="center"><img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"></td>
     <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><br/>
