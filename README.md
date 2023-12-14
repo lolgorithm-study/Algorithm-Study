@@ -146,7 +146,7 @@
   </tr>
      <tr>
     <td align="center">No.17</a></td>
-    <td align="center">유니콘 파인드</td>
+    <td align="center">유니온 파인드</td>
     <td align="center">-</td>
   </tr>
 
