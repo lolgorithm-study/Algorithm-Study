@@ -5,7 +5,6 @@
 // 만약, 등장하는 횟수가 같다면, 먼저 나온 것이 앞에 있어야 한다.
 
 let input = readLine()!.split(separator: " ").map { Int($0)! }
-let N = input[0], C = input[1]
 let sequence = readLine()!.split(separator: " ").map { Int($0)! }
 
 var dic: [Int: Int] = [:]
