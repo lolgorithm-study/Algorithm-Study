@@ -45,7 +45,7 @@
     <tr>
     <td align="center">2023/12/04 ~ </a></td>
     <td align="center">2023/12/04 ~ </a></td>
-    <td align="center">-</a></td>
+    <td align="center">2023/12/17</a></td>
   </tr>
   <tr> 
     <td align="center"><img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"></td>
