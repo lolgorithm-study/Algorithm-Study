@@ -45,7 +45,7 @@
     <tr>
     <td align="center">2023/12/04 ~ </a></td>
     <td align="center">2023/12/04 ~ </a></td>
-    <td align="center">2023/12/17</a></td>
+    <td align="center">2023/12/17 ~ </a></td>
   </tr>
   <tr> 
     <td align="center"><img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"></td>
@@ -77,7 +77,6 @@
     <td align="center">No.03</a></td>
     <td align="center">스택, 큐, 덱</td> 
     <td align="center">https://www.acmicpc.net/group/workbook/view/19349/64680</td>
-
   </tr>
    <tr>
     <td align="center">No.04</a></td>
