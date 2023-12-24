@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.*;
 
 
-public class No_2304 {
+public class No_2304{
 	
     static StringBuilder sb = new StringBuilder();
     static StringTokenizer st;
