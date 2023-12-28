@@ -22,6 +22,7 @@
     <td>언어</td>
     <td><img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
     </td>
   </tr>
 </table>
@@ -33,15 +34,23 @@
 <table>
  <tr>
     <td align="center"><a href="https://github.com/youngjoo00"><img src="https://avatars.githubusercontent.com/youngjoo00" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/larcenous"><img src="https://avatars.githubusercontent.com/larcenous" width="130px;" 
+    <td align="center"><a href="https://github.com/larcenous"><img src="https://avatars.githubusercontent.com/larcenous" width="130px;"alt=""></a></td>
+   <td align="center"><a href="https://github.com/Slavicmeme"><img src="https://avatars.githubusercontent.com/Slavicmeme" width="130px;"alt=""></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/youngjoo00"><b>youngjoo00</b></a></td>
     <td align="center"><a href="https://github.com/larcenous"><b>larcenous</b></a></td>
+    <td align="center"><a href="https://github.com/Slavicmeme"><b>Slavicmeme</b></a></td>
+  </tr>
+    <tr>
+    <td align="center">2023/12/04 ~ </a></td>
+    <td align="center">2023/12/04 ~ </a></td>
+    <td align="center">2023/12/17 ~ </a></td>
   </tr>
   <tr> 
     <td align="center"><img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"></td>
     <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><br/>
+    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"><br/>
   </tr> 
 </table>
 
@@ -62,13 +71,12 @@
    <tr>
     <td align="center">No.02</a></td>
     <td align="center">맵, 셋</td>
-    <td align="center">-</td>
+    <td align="center">https://www.acmicpc.net/group/workbook/view/19349/64494</td>
   </tr>
    <tr>
     <td align="center">No.03</a></td>
     <td align="center">스택, 큐, 덱</td> 
-    <td align="center">-</td>
-
+    <td align="center">https://www.acmicpc.net/group/workbook/view/19349/64680</td>
   </tr>
    <tr>
     <td align="center">No.04</a></td>
@@ -137,7 +145,7 @@
   </tr>
      <tr>
     <td align="center">No.17</a></td>
-    <td align="center">유니콘 파인드</td>
+    <td align="center">유니온 파인드</td>
     <td align="center">-</td>
   </tr>
 
@@ -204,10 +212,10 @@
 ## ⚠️ PR 규칙
 
 ```
-[날짜] {플랫폼 or 언어} {문제 제목} - {기타 내용}
+[날짜] {Week_00} - {기타 내용}
 ```
 
-- 💡 예시: `[230809] PGS 다트 게임 - 1문제`
+- 💡 예시: `[230809] Week_01 - 1문제`
 
 ---
 
