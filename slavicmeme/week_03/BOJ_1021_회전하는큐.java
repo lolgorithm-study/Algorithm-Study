@@ -9,7 +9,7 @@ import java.util.StringTokenizer;
 public class No_1021{
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-
+         
         // 첫번째 줄 입력 받기
         StringTokenizer st = new StringTokenizer(br.readLine());
         int N = Integer.parseInt(st.nextToken()); // 큐의 크기
