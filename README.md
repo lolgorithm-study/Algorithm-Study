@@ -81,7 +81,7 @@
    <tr>
     <td align="center">No.04</a></td>
     <td align="center">우선순위 큐</td>
-    <td align="center">-</td>
+    <td align="center">https://www.acmicpc.net/group/workbook/view/19349/64892</td>
   </tr>
    <tr>
     <td align="center">No.05</a></td>
