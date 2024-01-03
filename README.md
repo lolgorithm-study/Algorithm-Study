@@ -86,7 +86,7 @@
    <tr>
     <td align="center">No.05</a></td>
     <td align="center">정수론 및 조합론</td>
-    <td align="center">-</td>
+    <td align="center">https://www.acmicpc.net/group/workbook/view/19349/65008</td>
   </tr>
    <tr>
     <td align="center">No.06</a></td>
