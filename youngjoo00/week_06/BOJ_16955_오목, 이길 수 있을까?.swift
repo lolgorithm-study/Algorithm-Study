@@ -15,7 +15,7 @@ func funcCheck() -> Bool {
     var count: Int
     for i in 0..<10 {
         for j in 0..<10 {
-            // 우측으로 [i][0...5] 까지 탐색
+            // 가로 확인
             if j <= 5 {
                 count = 0
                 for k in 0..<5 {
@@ -34,7 +34,7 @@ func funcCheck() -> Bool {
                 }
             }
             
-            // 아래로 [0...5][j] 까지 탐색
+            // 세로 확인
             if i <= 5 {
                 count = 0
                 for k in 0..<5 {
@@ -52,7 +52,7 @@ func funcCheck() -> Bool {
                 }
             }
             
-            // 아래 대각선으로 중앙까지만 탐색
+            // 대각선 우하향
             count = 0
             for k in 0..<5 {
                 if i + k >= 10 || j + k >= 10 {
@@ -71,10 +71,10 @@ func funcCheck() -> Bool {
                 }
             }
 
-            // 대각선 위로 i기준 5~9까지 탐색
+            // 대각선 우상향
             count = 0
             for k in 0..<5 {
-                // 마찬가지로 5개의 원소를 찾을수 있는 조건
+
                 if i - k < 0 || j + k >= 10 {
                     break
                 }
