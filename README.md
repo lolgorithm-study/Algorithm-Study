@@ -91,7 +91,7 @@
    <tr>
     <td align="center">No.06</a></td>
     <td align="center">브루트 포스</td>
-    <td align="center">-</td>
+    <td align="center">https://www.acmicpc.net/group/workbook/view/19349/65228</td>
   </tr>
    <tr>
     <td align="center">No.07</a></td>
