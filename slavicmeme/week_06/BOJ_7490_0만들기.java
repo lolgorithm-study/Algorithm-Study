@@ -1,5 +1,5 @@
 package Week06;
-
+ 
 import java.io.*;
 
 public class BOJ_7490_0만들기 {
