@@ -96,7 +96,7 @@
    <tr>
     <td align="center">No.07</a></td>
     <td align="center">백 트래킹</td>
-    <td align="center">-</td>
+    <td align="center">(https://www.acmicpc.net/group/workbook/view/19349/65458)</td>
   </tr>
    <tr>
     <td align="center">No.08</a></td>
