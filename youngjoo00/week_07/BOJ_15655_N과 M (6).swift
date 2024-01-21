@@ -1,4 +1,4 @@
-// BOJ_15655_N과 M (6).swift
+// BOJ_15655_N과 M 6.swift
 // N개의 숫자들 중 M개를 선택하는 모든 경우 출력
 // 조건 : 오름차순, 이미 나왔던 값 중복 없이
 let input = readLine()!.split(separator: " ").map { Int($0)! }
