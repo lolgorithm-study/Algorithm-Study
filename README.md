@@ -96,7 +96,7 @@
    <tr>
     <td align="center">No.07</a></td>
     <td align="center">백 트래킹</td>
-    <td align="center">-</td>
+    <td align="center">https://www.acmicpc.net/group/workbook/view/19349/65458</td>
   </tr>
    <tr>
     <td align="center">No.08</a></td>
@@ -154,7 +154,7 @@
 <br/>
 
 ## 📌 스터디 규칙
-- 일주일간 정해진 주차의 알고리즘 10개 풀이
+- 일주일간 정해진 주차의 알고리즘 7개(기본 개념 3, 심화 4) 풀이
 - 스터디는 온라인으로 N시간 진행
   - 알고리즘 풀이 공유
   - 다음주 알고리즘 및 자료구조 개념 설명
