@@ -101,7 +101,7 @@
    <tr>
     <td align="center">No.08</a></td>
     <td align="center">동적 계획법</td>
-    <td align="center">-</td>
+    <td align="center">https://www.acmicpc.net/group/workbook/view/19349/65740</td>
   </tr>
      <tr>
     <td align="center">No.09</a></td>
