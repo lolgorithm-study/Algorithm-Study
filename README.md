@@ -101,12 +101,12 @@
    <tr>
     <td align="center">No.08</a></td>
     <td align="center">동적 계획법</td>
-    <td align="center">-</td>
+    <td align="center">https://www.acmicpc.net/group/workbook/view/19349/65740</td>
   </tr>
      <tr>
     <td align="center">No.09</a></td>
     <td align="center">그리디 알고리즘</td>
-    <td align="center">-</td>
+    <td align="center">https://www.acmicpc.net/group/workbook/view/19349/65993</td>
   </tr>
      <tr>
     <td align="center">No.10</a></td>
@@ -154,7 +154,7 @@
 <br/>
 
 ## 📌 스터디 규칙
-- 일주일간 정해진 주차의 알고리즘 7개(기본 개념 3, 심화 4) 풀이
+- 일주일간 정해진 주차의 알고리즘 7개 (최소 3개 이상) 풀이
 - 스터디는 온라인으로 N시간 진행
   - 알고리즘 풀이 공유
   - 다음주 알고리즘 및 자료구조 개념 설명
