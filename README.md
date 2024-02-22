@@ -111,7 +111,7 @@
      <tr>
     <td align="center">No.10</a></td>
     <td align="center">분할 정복</td>
-    <td align="center">-</td>
+    <td align="center">https://www.acmicpc.net/group/workbook/view/19349/66244</td>
   </tr>
      <tr>
     <td align="center">No.11</a></td>
