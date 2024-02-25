@@ -116,12 +116,12 @@
      <tr>
     <td align="center">No.11</a></td>
     <td align="center">이분 탐색</td>
-    <td align="center">-</td>
+    <td align="center">https://www.acmicpc.net/group/workbook/view/19349/66682</td>
   </tr>
      <tr>
     <td align="center">No.12</a></td>
     <td align="center">투 포인터</td>
-    <td align="center">-</td>
+    <td align="center">https://www.acmicpc.net/group/workbook/view/19349/66911</td>
   </tr>
      <tr>
     <td align="center">No.13</a></td>
