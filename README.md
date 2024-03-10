@@ -126,12 +126,12 @@
      <tr>
     <td align="center">No.13</a></td>
     <td align="center">DFS & BFS</td>
-    <td align="center">-</td>
+    <td align="center">https://www.acmicpc.net/group/workbook/view/19349/67157</td>
   </tr>
      <tr>
     <td align="center">No.14</a></td>
     <td align="center">최단 경로</td>
-    <td align="center">-</td>
+    <td align="center">https://www.acmicpc.net/group/workbook/view/19349/67369</td>
   </tr>
      <tr>
     <td align="center">No.15</a></td>
