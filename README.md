@@ -136,7 +136,7 @@
      <tr>
     <td align="center">No.15</a></td>
     <td align="center">동적 계획법과 최단 거리 역추적</td>
-    <td align="center">-</td>
+    <td align="center">https://www.acmicpc.net/group/workbook/view/19349/67913</td>
   </tr>
      <tr>
     <td align="center">No.16</a></td>
